@@ -1,8 +1,8 @@
-[**中国語**](https://github.com/Miku-UI/manifesto/blob/Udon/READMECN.md)
+[**中国語**](https://github.com/Miku-UI/manifesto/blob/Vampire/READMECN.md)
 
-# Miku UI Udon
+# Miku UI Vampire
 
-![MikuUI](https://github.com/Miku-UI/manifesto/raw/Udon/img/MikuUI.png)
+![MikuUI](https://github.com/Miku-UI/manifesto/raw/Vampire/img/MikuUI.png)
 
 Miku UI は AOSP ベースのプロジェクトです。パフォーマンス面にフォーカスしているのが特徴です ... 
 
@@ -19,7 +19,7 @@ Miku UI は AOSP ベースのプロジェクトです。パフォーマンス面
 
 
 ```shell
-repo init -u https://github.com/Miku-UI/manifesto -b Udon_v2
+repo init -u https://github.com/Miku-UI/manifesto -b Vampire
 ```
 
 

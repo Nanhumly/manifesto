@@ -1,6 +1,6 @@
-# Miku UI Udon
+# Miku UI Vampire
 
-![MikuUI](https://github.com/Miku-UI/manifesto/raw/Udon/img/MikuUI.png)
+![MikuUI](https://github.com/Miku-UI/manifesto/raw/Vampire/img/MikuUI.png)
 
 Miku UI 是一个基于 AOSP 的系统。专注于性能优化与......
 
@@ -94,7 +94,7 @@ cd ~/miku
 使用以下命令来初始化仓库：
 
 ```shell
-repo init -u https://github.com/Miku-UI/manifesto -b Udon_v2
+repo init -u https://github.com/Miku-UI/manifesto -b Vampire
 ```
 
 开始同步源码：
