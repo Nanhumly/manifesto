@@ -2,17 +2,17 @@
 <manifest>
 
     <remote name="diva"
-	    revision="Udon_v2"
+	    revision="Vampire"
 	    fetch="https://github.com/Diva-Room"
 	    review="https://android-review.googlesource.com/" />
 
     <remote name="diva-ssh"
-	    revision="Udon_v2"
+	    revision="Vampire"
         fetch="ssh://git@github.com/Diva-Room"
 	    review="https://android-review.googlesource.com/" />
 	
     <remote name="divalab"
-	    revision="Udon_v2"
+	    revision="Vampire"
 	    fetch="https://gitlab.com/Diva-Room"
 	    review="https://android-review.googlesource.com/" />
 
